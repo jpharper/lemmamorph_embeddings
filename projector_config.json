@@ -1,0 +1,13 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "LMTokenizer",
+      "tensorShape": [
+        20000,
+        768
+      ],
+      "tensorPath": "https://github.com/jpharper/lemmamorph_embeddings/raw/main/deberta_metadata.tsv",
+      "metadataPath": "https://github.com/jpharper/lemmamorph_embeddings/raw/main/deberta_metadata.tsv"
+    }
+  ]
+}
