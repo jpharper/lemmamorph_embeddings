@@ -6,7 +6,7 @@
         20000,
         768
       ],
-      "tensorPath": "https://raw.githubusercontent.com/jpharper/lemmamorph_embeddings/main/deberta_tensors.tsv",
+      "tensorPath": "https://media.githubusercontent.com/media/jpharper/lemmamorph_embeddings/main/deberta_tensors.tsv",
       "metadataPath": "https://raw.githubusercontent.com/jpharper/lemmamorph_embeddings/main/deberta_metadata.tsv"
     }
   ]
